@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Você pode deixar esse reset também se quiser */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: sans-serif;
+}
